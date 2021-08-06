@@ -1,0 +1,12 @@
+.description {
+  display: flex;
+  flex-direction: column;
+  color: white;
+  background-color: rgb(40, 40, 40);
+  width: 50%;
+  border-radius: 0.5rem;
+  margin: auto;
+  margin-top: 10rem;
+  align-items: center;
+  justify-items: center;
+}

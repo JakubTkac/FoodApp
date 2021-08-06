@@ -1,4 +1,17 @@
 .add-button {
+  display: flex;
   height: 2rem;
-  background-color: purple;
+  width: 70%;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+  background-color: darkred;
+  color: white;
+  border-radius: 2rem;
+  font-weight: bold;
+  cursor: pointer;
+  border: none;
+}
+.add-button:hover {
+  background-color: orangered;
 }
