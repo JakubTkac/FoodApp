@@ -1,0 +1,8 @@
+.header {
+  background-color: darkred;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0.4rem 4rem 0.4rem 4rem;
+}
